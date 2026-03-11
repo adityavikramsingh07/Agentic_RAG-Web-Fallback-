@@ -24,7 +24,3 @@ Before that, make sure you grab your FireCrawl API keys to search the web.
 
 To use deep-seek-rq use command ``` streamlit run app_deep_seek.py ```, for llama 3.2 use command ``` streamlit run app_llama3.2.py ```
 
-
-## Contribution
-
-Contributions are welcome! Please fork the repository and submit a pull request with your improvements.
